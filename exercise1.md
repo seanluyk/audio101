@@ -1,4 +1,4 @@
-## Comparing the Use of Sound and Music in Science Fiction Radio Dramas
+## Comparing the Use of Sound and Music in Sci-Fi Radio Dramas
 
 ### **Credits**
 Inspired by and adapted from John F. Barber’s DHSI course on sound in DH, described in [this article](http://www.digitalhumanities.org/dhq/vol/10/1/000239/000239.html)
@@ -12,3 +12,9 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 3. [*X Minus One* episode (26:18), aired May 8, 1955](https://archive.org/details/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp30). Clip starts at 24:50
 4. [*X Minus One* episode script](https://www.genericradio.com/show/1ac589335d584bbd)
 5. *Ray Bradbury Theatre* episode (1990)
+
+## **Tools**
+1. [Audacity](https://www.audacityteam.org/)
+2. [Sonic Lineup](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
+3. [FFMPEG](https://www.ffmpeg.org/download.html)
+
