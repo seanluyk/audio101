@@ -10,8 +10,7 @@ This repository contains materials and resources for the Audio 101 workshop held
 ### FFMPEG
 - [Introduction to FFMPEG / Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-ffmpeg)
 - [FFMPEG Cookbook for Archivists / Reto Kromer](https://avpres.net/FFmpeg/)
-- [DH Sound Studies /Tufts University](https://sites.tufts.edu/digitalhumanities/dh-sound-studies/)
-## Interesting Audio Projects
+## Interesting Audio DH Projects
 - [SpokenWeb](https://spokenweb.ca/)
 - [Paperphone: Vocal Effects in Scholarly Presentations](http://soundboxproject.com/project-paperphone.html)
 ## Articles
