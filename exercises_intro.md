@@ -14,8 +14,8 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 
 ## **Ingredients**
 1. ["Mars is Heaven!" in *Planet Stories* Volume 3, no. 12, 1948](https://archive.org/stream/Planet_Stories_Canadian_Ed._v03n12_1948-Fall#page/n57/mode/2up)
-2. [*Dimension X* episode (29:18), aired July 7, 1950 & January 7, 1951](https://archive.org/details/OTRR_Dimension_X_Singles/Dimension_X_1950-07-07__14_MarsIsHeaven.mp3). Clip starts at 23:03
-3. [*X Minus One* episode (26:18), aired May 8, 1955](https://archive.org/details/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp30). Clip starts at 24:50
+2. [*Dimension X* episode (29:18), aired July 7, 1950 & January 7, 1951](https://archive.org/details/OTRR_Dimension_X_Singles/Dimension_X_1950-07-07__14_MarsIsHeaven.mp3). Clip for activity 1 starts at 23:03
+3. [*X Minus One* episode (26:18), aired May 8, 1955](https://archive.org/details/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp30). Clip for activity 1 starts at 24:50
 4. [*X Minus One* episode script](https://www.genericradio.com/show/1ac589335d584bbd)
 5. *Ray Bradbury Theatre* episode (1990)
 
