@@ -3,6 +3,8 @@ This repository contains materials and resources for the Audio 101 workshop held
 ## Tools Used in this Workshop
 - [Audacity: Open Source Audio Editor](https://www.fosshub.com/Audacity.html)
 - [Sonic Lineup: Comparative Visualization of Related Audio Recordings](https://www.sonicvisualiser.org/sonic-lineup/index.html)
+## Exercises
+#### [Comparing the Use of Sound and Music in Sci-Fi Radio Dramas](https://github.com/seanluyk/audio101/blob/master/exercises_intro.md#comparing-the-use-of-sound-and-music-in-sci-fi-radio-dramas)
 ## Tutorials
 ### Audacity
 - [Editing audio with Audacity / Programming Historian](https://programminghistorian.org/en/lessons/editing-audio-with-audacity)
