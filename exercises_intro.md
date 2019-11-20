@@ -10,7 +10,7 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 1. Basic audio editing using Audacity
 2. Compare two recordings using Sonic Lineup
 3. Use FFMPEG to extract an audio track
-4. Use the command line to extract audio metadata 
+4. Use the command line to extract audio metadata
 
 ## **Ingredients**
 1. ["Mars is Heaven!" in *Planet Stories* Volume 3, no. 12, 1948](https://archive.org/stream/Planet_Stories_Canadian_Ed._v03n12_1948-Fall#page/n57/mode/2up)
