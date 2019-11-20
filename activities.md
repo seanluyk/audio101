@@ -4,7 +4,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 
 ## 1. Basic Audio Editing Using Audacity
 ### 1.1 Clean up and segment your recordings
-- Remove the advertisements at the beginning and end of each program and copy to a new track. Add a descriptive label
+- Remove the advertisements, program introduction, music, etc. at the beginning and end of each program and copy to a new track. Add a descriptive label
 - Remove the opening sound effects of each program and copy to a new track. Add a descriptive label
 - Remove silence at the beginning and end of each track (hint: zoom is your best friend!)
 - 
