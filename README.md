@@ -13,6 +13,7 @@ This repository contains materials and resources for the Audio 101 workshop held
 ## Interesting Audio DH Projects
 - [SpokenWeb](https://spokenweb.ca/)
 - [Paperphone: Vocal Effects in Scholarly Presentations](http://soundboxproject.com/project-paperphone.html)
+- [Lieux Perdus: for 4 singers, chamber orchestra, alectronics and "headophones 3D sound"](https://www.lieuxperdus.com/en/)
 ## Articles
 - ["Historicist Audio Forensics: The Archive of Voices as Repository of Material and Conceptual Artefacts"  / Jason Camlot](http://doi.org/10.16995/ntn.744)
 - [Distant Listening or Playing Visualisations Pleasantly with the Eyes and Ears / Tanya Clement](https://www.digitalstudies.org//article/10.16995/dscn.236/)
