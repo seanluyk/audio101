@@ -1,6 +1,6 @@
 # Activities
 
-All of the activities below are designed to be used with the scenario descbribed here, but are easily adaptable to your own projects
+All of the activities below are designed to be done with the [radio drama scenario](https://github.com/seanluyk/audio101/blob/master/exercises_intro.md#scenario) descbribed, but are easily adaptable to your own projects:
 
 ## 1. Basic Audio Editing Using Audacity
 
