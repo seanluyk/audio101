@@ -21,5 +21,6 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 ## **Tools**
 1. [Audacity](https://www.audacityteam.org/)
 2. [Sonic Lineup](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
-3. Command Line
+3. [SoX - Sound Exchange: The Swiss Army Knife of Audio Manipulation](http://sox.sourceforge.net/)
+  - Installation options
 
