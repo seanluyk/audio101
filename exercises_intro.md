@@ -16,11 +16,9 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 2. [*Dimension X* episode (29:18), aired July 7, 1950 & January 7, 1951](https://archive.org/details/OTRR_Dimension_X_Singles/Dimension_X_1950-07-07__14_MarsIsHeaven.mp3)
 3. [*X Minus One* episode (26:18), aired May 8, 1955](https://archive.org/details/OTRR_X_Minus_One_Singles/XMinusOne55-05-08003MarsIsHeaven.mp30)
 4. [*X Minus One* episode script](https://www.genericradio.com/show/1ac589335d584bbd)
-5. *Ray Bradbury Theatre* episode (1990)
 
 ## **Tools**
 1. [Audacity](https://www.audacityteam.org/)
 2. [Sonic Lineup](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
-3. [SoX - Sound Exchange: The Swiss Army Knife of Audio Manipulation](http://sox.sourceforge.net/)
-  - Installation options
+3. [SoX - Sound Exchange: The Swiss Army Knife of Audio Manipulation](http://sox.sourceforge.net/). * Installation options
 
