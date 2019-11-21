@@ -7,7 +7,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 - [Audacity: Complete Tutorial Guide to Audacity for Beginners / David Taylor](https://www.youtube.com/watch?v=aCisC3sHneM)
 ### 1.2 Clean up and segment your recordings
 - Locate the program introductions (advertisements, program introduction, sound effects, music, etc.) and copy them to new tracks (1 for each program). Add descriptive labels
-- Remove the program closing (advertisements, credits, sound effects, music, etc.) and copy to them a new tracks (1 for each program). Add  descriptive labels
+- Remove the program closing (advertisements, credits, sound effects, music, etc.) and copy to them a new tracks (1 for each program). Add descriptive labels
 - At this point you should have 6 tracks:
   - Dimension X Introduction
   - X Minus One Introduction
@@ -28,8 +28,9 @@ All of the activities below are designed to be done with the [radio drama scenar
 3. Repeat this for one of your pairs of clips (optional) 
 
 ## 2. Compare Two Recordings Using Sonic Lineup
-- Export the Captain John Black closing line clips 
+- Export the Captain John Black closing line clips
+- Open them up in Sonic Lineup
+- Explore the various visualization options available
+- Use the speed up/slow down features and toggle between recordings to do some close listening
 
-## 3. Use FFMPEG to Extract an Audio Track
-
-## 4. Use the Command Line to Extract Audio Metadata
+## 3. Use the Command Line to Extract Audio Metadata
