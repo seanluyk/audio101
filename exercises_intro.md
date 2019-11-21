@@ -9,8 +9,7 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 ## **Activities**
 1. [Basic Audio Editing Using Audacity](https://github.com/seanluyk/audio101/blob/master/activities.md#1-basic-audio-editing-using-audacity)
 2. [Compare Two Recordings Using Sonic Lineup](https://github.com/seanluyk/audio101/blob/master/activities.md#2-compare-two-recordings-using-sonic-lineup)
-3. [Use FFMPEG to Extract an Audio Track](https://github.com/seanluyk/audio101/blob/master/activities.md#3-use-ffmpeg-to-extract-an-audio-track)
-4. [Use the Command Line to Extract Audio Metadata](https://github.com/seanluyk/audio101/blob/master/activities.md#4-use-the-command-line-to-extract-audio-metadata)
+3. [Use the Command Line to Extract Audio Metadata](https://github.com/seanluyk/audio101/blob/master/activities.md#4-use-the-command-line-to-extract-audio-metadata)
 
 ## **Ingredients**
 1. ["Mars is Heaven!" in *Planet Stories* Volume 3, no. 12, 1948](https://archive.org/stream/Planet_Stories_Canadian_Ed._v03n12_1948-Fall#page/n57/mode/2up)
@@ -22,6 +21,5 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 ## **Tools**
 1. [Audacity](https://www.audacityteam.org/)
 2. [Sonic Lineup](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
-3. [FFMPEG](https://www.ffmpeg.org/download.html)
-4. Command Line
+3. Command Line
 
