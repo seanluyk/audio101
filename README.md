@@ -1,6 +1,7 @@
 # Audio 101
 This repository contains materials and resources for the Audio 101 workshop held as part of the [Digital Scholarship Centre](https://dsc.library.ualberta.ca/) 101 series, November 28, 2019, taught by Sean Luyk, Digital Project Librarian at the University of Alberta, Edmonton, Canada.
 ## Tools Used in this Workshop
+- [Let's Learn About Waveforms / Josh Comeau](https://pudding.cool/2018/02/waveforms/)
 - [Audacity: Open Source Audio Editor](https://www.fosshub.com/Audacity.html)
 - [Sonic Lineup: Comparative Visualization of Related Audio Recordings](https://www.sonicvisualiser.org/sonic-lineup/index.html)
 ## Exercises
