@@ -10,6 +10,11 @@ This repository contains materials and resources for the Audio 101 workshop held
 ### Audacity
 - [Editing audio with Audacity / Programming Historian](https://programminghistorian.org/en/lessons/editing-audio-with-audacity)
 - [Audacity: Complete Tutorial Guide to Audacity for Beginners / David Taylor](https://www.youtube.com/watch?v=aCisC3sHneM)
+### Sound Exchange (SoX)
+- [How to Process Audio Files from the Command Line with SoX](https://www.yesik.it/blog/2018-sox)
+- [Manipulating Audio with Mac Terminal](https://medium.com/@sedwardscode/manipulating-audio-using-the-mac-terminal-a7b87c516b7a)
+- [The SoX of Silence](https://digitalcardboard.com/blog/2009/08/25/the-sox-of-silence/)
+- [SoX Tricks(repository with additional functions for SoX)](https://github.com/madskjeldgaard/sox-tricks)
 ### FFMPEG
 - [Introduction to FFMPEG / Programming Historian](https://programminghistorian.org/en/lessons/introduction-to-ffmpeg)
 - [FFMPEG Cookbook for Archivists / Reto Kromer](https://avpres.net/FFmpeg/)
