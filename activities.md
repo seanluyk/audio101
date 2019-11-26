@@ -36,19 +36,22 @@ All of the activities below are designed to be done with the [radio drama scenar
 - Use the speed up/slow down features and toggle between recordings to do some close listening
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
 
-## 3.0 Use the Command Line (SoX to Manipulate Audio Files
+## 3.0 Use the Command Line (SoX) to Manipulate Audio Files
  - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
 ### 3.1 Get metadata about an audio file
 - Open **Terminal**
 - **Navigate** to your Audio 101 files using the command line
 - In **Terminal** type:
 ~~~shell
-sox stat [filename] -n stat
+sox [filename(s)] -n stat
 ~~~
-- This provides you with some very basic stats which may be useful to you
+- This provides you with some very basic stats which may be useful/interesting to you
 - You can also use the soxi command to get information from the file header. In **Terminal** type:
 ~~~shell
-soxi [filename]
+soxi [filename(s)]
+~~~
+ - This returns information found in the file's header
+ - You can also type multiple file names after the main sox/soxi commands to get stats returned for multiple files at once for the purposes of comparison
 ### 3.2 
 ### 3.3
 ### 3.4
