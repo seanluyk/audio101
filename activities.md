@@ -39,7 +39,8 @@ All of the activities below are designed to be done with the [radio drama scenar
 ## 3.0 Use the Command Line (SoX to Manipulate Audio Files
  - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
 ### 3.1 Get metadata about an audio file
-
+In terminal type:
+~~~sox stat filename -n stat
 ### 3.2 
 ### 3.3
 ### 3.4
