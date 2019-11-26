@@ -101,4 +101,4 @@ sox filename1.wav -n spectrogram -h -t 'title text' -o [filename.png]
 ~~~ 
 -This will create a high contrast (-h) spectrogram of the entire audio file with the filename (-o) and a descriptive title (-t):
 ![](spectrowithtitle.png)
-- There are many more options for the spectrogram effect described in the [SoX documentation](http://sox.sourceforge.net/sox.html#EFFECTS) for you to explore!
+- Experiment with  the many spectrogram effect options described in the [SoX documentation](http://sox.sourceforge.net/sox.html#EFFECTS) for you to explore!
