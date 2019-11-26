@@ -23,7 +23,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 - Copy them to new tracks, and add descriptive labels
 - At this point you should have 8 tracks
 ### 1.4 Listen to each of the closing clips closely and note:
-1. Their loudest and softest points (amplitude). How does this correspond to the text? How are their performances the same? How are they different? 
+1. Their loudest and softest points (amplitude); highest and lowest points (frequency). How does this correspond to the text? How are their performances the same? How are they different? 
 2. Any interesting sonic features? 
 3. Repeat this for one of your pairs of clips (optional) 
 
@@ -37,7 +37,8 @@ All of the activities below are designed to be done with the [radio drama scenar
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
 
 ## 3.0 Use the Command Line to Manipulate Audio Files
-### 3.1
-### 3.2
+### 3.1 Get metadata about an audio file
+
+### 3.2 
 ### 3.3
 ### 3.4
