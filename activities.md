@@ -1,5 +1,5 @@
 # Activities
-All of the activities below are designed to be done with the [radio drama scenario](https://github.com/seanluyk/audio101/blob/master/exercises_intro.md#scenario) described, but are easily adaptable to your own projects:
+All of the activities below are designed to be done with the [radio drama scenario](https://github.com/seanluyk/audio101/blob/master/exercises_intro.md#scenario), but are easily adaptable to your own projects:
 ## 1.0 Basic Audio Editing Using Audacity
 ### 1.1 Watch an introductory tutorial (optional)
 - [Audacity: Complete Tutorial Guide to Audacity for Beginners / David Taylor](https://www.youtube.com/watch?v=aCisC3sHneM)
@@ -59,7 +59,7 @@ soxi filename.wav
 #### Concatenate files
 - In **Terminal** type:
 ~~~shell
-sox --combine concatenate inputfile1 inputfile2 outputfile.wav
+sox --combine concatenate inputfile1.wav inputfile2.wav outputfile.wav
 ~~~
 - Hear the result by typing:
 ~~~shell
@@ -77,8 +77,9 @@ sox -m filename1.wav filename2.wav outputfile.wav
 ~~~ 
 - This will create one file that mixes the other files together
 - Using the remix command, you can also mix individual channels from multiple files together very easily, although we won't work on this today
+- Play back the file you created using the merge command
 ### 3.3 Modify files
-- SoX had many commands that allow you to easily modify files in the command line. Today we'll work with some basic ones:
+- SoX had many commands that allow you to easily modify files using the command line. Today we'll work with some basic ones:
 #### Pad a recording with silence
 - In **Terminal** type:
 ~~~shell
