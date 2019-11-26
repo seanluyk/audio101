@@ -84,14 +84,14 @@ sox -m filename1.wav filename2.wav outputfile.wav
 - In **Terminal** type:
 ~~~shell
 sox filename1.wav outputfile.wav \
-pad [amount of silence in HH:MM:SS to add at the beginning of your file] [amount of silence in HH:MM:SS to add at the end of your file]  
+pad [amount of silence HH:MM:SS to add at the beginning of your file] [amount of silence HH:MM:SS to add at the end of your file]  
 ~~~ 
 #### Apply a fade in/fade out
 - Similar to the pad command, the fade command can be used to add fade-ins/outs to a file:
 - In **Terminal** type:
 ~~~shell
 sox filename1.wav filename2.wav outputfile.wav \
-fade [fade in position HH:MM:SS] [fade out start HH:MM:SS]
+fade [fade-in position HH:MM:SS] [fade out start HH:MM:SS]
 ~~~ 
 ### 3.4 Visualize your audio files
 #### Create a spectrogram!
