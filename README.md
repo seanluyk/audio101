@@ -29,5 +29,5 @@ This repository contains materials and resources for the Audio 101 workshop held
 
 ## Other Resources
 - ["Historicist Audio Forensics: The Archive of Voices as Repository of Material and Conceptual Artefacts"  / Jason Camlot](http://doi.org/10.16995/ntn.744)
-- [Distant Listening or Playing Visualisations Pleasantly with the Eyes and Ears / Tanya Clement](https://www.digitalstudies.org//article/10.16995/dscn.236/)
+- ["Distant Listening or Playing Visualisations Pleasantly with the Eyes and Ears" / Tanya Clement](https://www.digitalstudies.org//article/10.16995/dscn.236/)
 - [Let's Learn About Waveforms / Josh Comeau](https://pudding.cool/2018/02/waveforms/)
