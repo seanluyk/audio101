@@ -36,7 +36,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 - Use the speed up/slow down features and toggle between recordings to do some close listening
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
 
-## 3.0 Use the Command Line to Manipulate Audio Files
+## 3.0 Use the Command Line (SoX to Manipulate Audio Files
 ### 3.1 Get metadata about an audio file
 
 ### 3.2 
