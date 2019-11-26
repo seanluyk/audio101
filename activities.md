@@ -35,7 +35,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 ## 3.0 Use the Command Line (SoX) to Manipulate Audio Files
  - If you haven't already done, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
   -If you're having trouble installing it, let me know!
- - For the activities below, use your Captain John Black files created in activity 1.3, or other files you brought with you 
+ - For the activities below, use your Captain John Black closing line files created in activity 1.3, or other files you brought with you 
 ### 3.1 Get metadata about an audio file
 - Open **Terminal**
 - Navigate to your Audio 101 files using the command line
@@ -74,7 +74,7 @@ play outputfile.wav reverse
 #### Merge Files
 - In **Terminal** type:
 ~~~shell
-sox -m filename1.wav filename2.wav outputfile.wav
+sox -m inputfile1.wav inputfile2.wav outputfile.wav
 ~~~ 
 - This will create one file that mixes the other files together
 - Using the remix command, you can also mix individual channels from multiple files together very easily, although we won't work on this today
