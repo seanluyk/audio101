@@ -1,10 +1,14 @@
 ## Comparing the Use of Sound and Music in Sci-Fi Radio Dramas
 
 ### **Credits**
-Inspired by and adapted from John F. Barber’s DHSI course on sound in DH, described in detail in [this article](http://www.digitalhumanities.org/dhq/vol/10/1/000239/000239.html)
+Inspired by and adapted from John F. Barber’s [DHSI course](https://dhsi.org/course-offerings/) on sound in DH, described in detail in [this article](http://www.digitalhumanities.org/dhq/vol/10/1/000239/000239.html)
 
 ## **Scenario** 
-You’re a scholar of speculative fiction who researches the sonic aspects of early sci-fi radio dramas. You’re doing an analysis of the many versions of ["Mars is Heaven!"](https://en.wikipedia.org/wiki/Mars_Is_Heaven!), written by Ray Bradbury. For an upcoming conference paper, you’d like to present an analysis that compares the use of sound and music in versions of the story from two classic radio drama programs ([Dimension X](https://en.wikipedia.org/wiki/Dimension_X_(radio_program)), and [X Minus One](https://en.wikipedia.org/wiki/X_Minus_One))
+You’re a scholar of speculative fiction who researches the sonic aspects of early sci-fi radio dramas. You’re doing an analysis of the many versions of ["Mars is Heaven!"](https://en.wikipedia.org/wiki/Mars_Is_Heaven!), written by Ray Bradbury. For an upcoming conference paper, you’d like to present an analysis that compares the use of sound and music in versions of the story from two classic radio drama programs ([Dimension X](https://en.wikipedia.org/wiki/Dimension_X_(radio_program)), and [X Minus One](https://en.wikipedia.org/wiki/X_Minus_One)). You plan to:
+1. Edit the files down to just the sections your interested in presenting about
+2. Compare different versions of the story
+3. Use command line tools to find out more information about the recordings, modify the files, and create a visualization. 
+- To achieve all of the above, you need to do the following 3 activities:
 
 ## **Activities**
 1. [Basic Audio Editing Using Audacity](https://github.com/seanluyk/audio101/blob/master/activities.md#1-basic-audio-editing-using-audacity)
@@ -18,7 +22,6 @@ You’re a scholar of speculative fiction who researches the sonic aspects of ea
 4. [*X Minus One* episode script](https://www.genericradio.com/show/1ac589335d584bbd)
 
 ## **Tools**
-1. [Audacity](https://www.audacityteam.org/)
-2. [Sonic Lineup](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
-3. [SoX - Sound Exchange: The Swiss Army Knife of Audio Manipulation](http://sox.sourceforge.net/) |[**Installation Options**](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
-
+1. [Audacity | Open Source Digital Audio Editor](https://www.audacityteam.org/)
+2. [Sonic Lineup | Tool for Comparing/Visualizing Recordings](https://code.soundsoftware.ac.uk/projects/sonic-lineup/files)
+3. [SoX - Sound Exchange: The Swiss Army Knife of Audio Manipulation | Command Line Tool for Working with Audio](http://sox.sourceforge.net/) |[**Installation Options**](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
