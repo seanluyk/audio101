@@ -1,7 +1,5 @@
 # Activities
-
 All of the activities below are designed to be done with the [radio drama scenario](https://github.com/seanluyk/audio101/blob/master/exercises_intro.md#scenario) described, but are easily adaptable to your own projects:
-
 ## 1.0 Basic Audio Editing Using Audacity
 ### 1.1 Watch an introductory tutorial (optional)
 - [Audacity: Complete Tutorial Guide to Audacity for Beginners / David Taylor](https://www.youtube.com/watch?v=aCisC3sHneM)
@@ -26,7 +24,6 @@ All of the activities below are designed to be done with the [radio drama scenar
 1. Their loudest and softest points (amplitude); highest and lowest points (frequency). How does this correspond to the text? How are their performances the same? How are they different? 
 2. Any interesting sonic features? 
 3. Repeat this for one of your pairs of clips (optional) 
-
 ## 2. Compare Two Recordings Using Sonic Lineup
 - Export the Captain John Black closing line clips
   - Mute all but your desired clips for export
@@ -35,10 +32,9 @@ All of the activities below are designed to be done with the [radio drama scenar
 - Explore the various visualization options available
 - Use the speed up/slow down features and toggle between recordings to do some close listening
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
-
 ## 3.0 Use the Command Line (SoX) to Manipulate Audio Files
  - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
- - For the activities below, use your Captain John Black files created in activity 1.0 
+ - For the activities below, use your Captain John Black files created in activity 1.3, or other files you brought with you 
 ### 3.1 Get metadata about an audio file
 - Open **Terminal**
 - **Navigate** to your Audio 101 files using the command line
@@ -57,8 +53,9 @@ soxi filename.wav
  soxi filename1.wav filename2.wav
  sox filename1.wav filename2.wav -n stat
  ~~~
- - How are your results different for stat vs. soxi?
+ - How are your results different when using stat vs. soxi?
 ### 3.2 Combine multiple audio files
+- In SoX there are multiple methods for combining audio files, which we'll experiment with below:
 #### Concatenate files
 - In **Terminal** type:
 ~~~shell
@@ -76,8 +73,30 @@ play outputfile.wav reverse
 #### Merge Files
 - In **Terminal** type:
 ~~~shell
-
+sox -m filename1.wav filename2.wav outputfile.wav
 ~~~ 
+- This will create one file that mixes the other files together
+- Using the remix command, you can also mix individual channels from multiple files together very easily, although we won't work on this today
 ### 3.3 Modify files
+- SoX had many commands that allow you to easily modify files in the command line. Today we'll work with some basic ones:
 #### Pad a recording with silence
-### 3.4
+- In **Terminal** type:
+~~~shell
+sox filename1.wav outputfile.wav \
+pad [amount of silence in HH:MM:SS to add at the beginning of your file] [amount of silence in HH:MM:SS to add at the end of your file]  
+~~~ 
+#### Apply a fade in/fade out
+- Similar to the pad command, the fade command can be used to add fade-ins/outs to a file:
+- In **Terminal** type:
+~~~shell
+sox filename1.wav filename2.wav outputfile.wav \
+fade [fade in position in HH:MM:SS] [fade out start in HH:MM:SS]
+~~~ 
+### 3.4 Visualize your audio files
+#### Create a spectrogram!
+- In **Terminal** type:
+~~~shell
+sox filename1.wav -n spectrogram -h -t 'title text' -o [filename.png]
+~~~ 
+-This will create a high contrast (-h) spectrogram of the entire audio file with the filename (-o) and a descriptive title (-t)
+- There are many more options for the spectrogram effect described in the [SoX documentation](http://sox.sourceforge.net/sox.html#EFFECTS) for you to explore!
