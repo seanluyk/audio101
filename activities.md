@@ -98,5 +98,6 @@ fade [fade in position in HH:MM:SS] [fade out start in HH:MM:SS]
 ~~~shell
 sox filename1.wav -n spectrogram -h -t 'title text' -o [filename.png]
 ~~~ 
--This will create a high contrast (-h) spectrogram of the entire audio file with the filename (-o) and a descriptive title (-t)
+-This will create a high contrast (-h) spectrogram of the entire audio file with the filename (-o) and a descriptive title (-t):
+
 - There are many more options for the spectrogram effect described in the [SoX documentation](http://sox.sourceforge.net/sox.html#EFFECTS) for you to explore!
