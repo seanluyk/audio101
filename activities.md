@@ -33,11 +33,12 @@ All of the activities below are designed to be done with the [radio drama scenar
 - Use the speed up/slow down features and toggle between recordings to do some close listening
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
 ## 3.0 Use the Command Line (SoX) to Manipulate Audio Files
- - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
+ - If you haven't already done, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
+  -If you're having trouble installing it, let me know!
  - For the activities below, use your Captain John Black files created in activity 1.3, or other files you brought with you 
 ### 3.1 Get metadata about an audio file
 - Open **Terminal**
-- **Navigate** to your Audio 101 files using the command line
+- Navigate to your Audio 101 files using the command line
 - In **Terminal** type:
 ~~~shell
 sox filename.wav -n stat
@@ -95,6 +96,7 @@ fade [fade-in position HH:MM:SS] [fade out start HH:MM:SS]
 ~~~ 
 ### 3.4 Visualize your audio files
 #### Create a spectrogram!
+-Pick one of your Captain John Black closing line files for this activity
 - In **Terminal** type:
 ~~~shell
 sox filename1.wav -n spectrogram -h -t 'title text' -o [filename.png]
