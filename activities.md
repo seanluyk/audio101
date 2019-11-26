@@ -37,6 +37,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 - For more help using Sonic Lineup, refer to [Sonic Lineup: A Brief Reference](https://sonicvisualiser.org/sonic-lineup/doc/reference/1.0/en/index.html)
 
 ## 3.0 Use the Command Line (SoX to Manipulate Audio Files
+ - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
 ### 3.1 Get metadata about an audio file
 
 ### 3.2 
