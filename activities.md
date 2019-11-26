@@ -45,6 +45,10 @@ All of the activities below are designed to be done with the [radio drama scenar
 ~~~shell
 sox stat [filename] -n stat
 ~~~
+- This provides you with some very basic stats which may be useful to you
+- You can also use the soxi command to get information from the file header. In **Terminal** type:
+~~~shell
+soxi [filename]
 ### 3.2 
 ### 3.3
 ### 3.4
