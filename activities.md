@@ -43,15 +43,24 @@ All of the activities below are designed to be done with the [radio drama scenar
 - **Navigate** to your Audio 101 files using the command line
 - In **Terminal** type:
 ~~~shell
-sox [filename(s)] -n stat
+sox filename.wav -n stat
 ~~~
 - This provides you with some very basic stats which may be useful/interesting to you
 - You can also use the soxi command to get information from the file header. In **Terminal** type:
 ~~~shell
-soxi [filename(s)]
+soxi filename.wav
 ~~~
  - This returns information found in the file's header
- - You can also type multiple file names after the main sox/soxi commands to get stats returned for multiple files at once for the purposes of comparison
-### 3.2 
+ - You can also type multiple file names after the main sox/soxi commands to get stats returned for multiple files at once for the purposes of comparison:
+ ~~~shell
+ soxi filename1.wav filename2.wav
+ sox filename1.wav filename2.wav -n stat
+ ~~~
+ - How are your results different for stat vs. soxi?
+### 3.2 Combine multiple audio files
+- In **Terminal** type:
+~~~shell
+sox --combine concatenate inputfile1 inputfile2 outputfile.wav
+~~~
 ### 3.3
 ### 3.4
