@@ -62,5 +62,10 @@ soxi filename.wav
 ~~~shell
 sox --combine concatenate inputfile1 inputfile2 outputfile.wav
 ~~~
+- Hear the result by typing:
+~~~shell
+play outputfile.wav
+~~~
+- You can stop playback by typing CTRL+C
 ### 3.3
 ### 3.4
