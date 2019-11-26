@@ -38,6 +38,7 @@ All of the activities below are designed to be done with the [radio drama scenar
 
 ## 3.0 Use the Command Line (SoX) to Manipulate Audio Files
  - If you haven't already done so or need help, [install SoX](https://github.com/seanluyk/audio101/blob/master/SoX_installation.md)
+ - For the activities below, use your Captain John Black files created in activity 1.0 
 ### 3.1 Get metadata about an audio file
 - Open **Terminal**
 - **Navigate** to your Audio 101 files using the command line
@@ -58,6 +59,7 @@ soxi filename.wav
  ~~~
  - How are your results different for stat vs. soxi?
 ### 3.2 Combine multiple audio files
+#### Concatenate files
 - In **Terminal** type:
 ~~~shell
 sox --combine concatenate inputfile1 inputfile2 outputfile.wav
@@ -67,5 +69,15 @@ sox --combine concatenate inputfile1 inputfile2 outputfile.wav
 play outputfile.wav
 ~~~
 - You can stop playback by typing CTRL+C
-### 3.3
+- You can even play files back in reverse! Type:
+~~~shell
+play outputfile.wav reverse
+~~~
+#### Merge Files
+- In **Terminal** type:
+~~~shell
+
+~~~ 
+### 3.3 Modify files
+#### Pad a recording with silence
 ### 3.4
