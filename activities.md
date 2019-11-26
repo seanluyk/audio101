@@ -91,7 +91,7 @@ pad [amount of silence in HH:MM:SS to add at the beginning of your file] [amount
 - In **Terminal** type:
 ~~~shell
 sox filename1.wav filename2.wav outputfile.wav \
-fade [fade in position in HH:MM:SS] [fade out start in HH:MM:SS]
+fade [fade in position HH:MM:SS] [fade out start HH:MM:SS]
 ~~~ 
 ### 3.4 Visualize your audio files
 #### Create a spectrogram!
